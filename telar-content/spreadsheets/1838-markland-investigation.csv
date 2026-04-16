@@ -1,0 +1,5 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,to-parliament,0.5,0.5,1,,"Where is this? ","This is a depiction of the Public Buildings (parliament) in Toronto in the 1830s. It is one of the few illustrations of what the city looked like in these years. ",,,,,,,,
+2,to-parliament,0.7958621045543094,0.6117846017359607,3.043227665706052,,British Soldiers Marching,"One of the indicators that this is a British colonial territory is the presence of ""Red Coats."" These men were housed at the nearby barracks at Fort York. ",,Tell Me About Fort York,1838-markland-investigation-fort-york-in.md,,,,,
+3,to-parliament,0.5,0.5,1,,The Public Buildings,"This is where colonial statesmen participated in deliberative democracy. The two-story building was home to the offices of various colonial officials, such as the Commissioner of Crown Land or the Inspector General. It was also a popular place for Torontonians to hang out. ",,,,,,,,

@@ -1,2 +1,4 @@
 order,story_id,title,subtitle,byline,private
+orden,id_historia,titulo,subtitulo,firma,privada
 0,1831-rex-v,1831 Rex V. Berthelotte,"Montreal, Lower Canada",,
+1,1838-markland-investigation,1838 Markland Investigation,"Toronto, Upper Canada",,
